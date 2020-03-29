@@ -9,11 +9,12 @@ export const environment = {
     databaseURL: 'https://hacker-news.firebaseio.com',
   },
   app_db: {
-    apiKey: 'AIzaSyAonue_QoCXiE1w2_bK9htgaqaqSwAcNK0',
-    authDomain: 'hacker-news-client-v4.firebaseapp.com',
-    databaseURL: 'https://hacker-news-client-v4.firebaseio.com',
-    projectId: 'hacker-news-client-v4',
-    storageBucket: 'hacker-news-client-v4.appspot.com',
-    messagingSenderId: '235153545323',
-  },
+    apiKey: "AIzaSyB7oeot6pREZYKHA_zo18WQnBPSEIw6ZgM",
+  authDomain: "khlstacksocial.firebaseapp.com",
+  databaseURL: "https://khlstacksocial.firebaseio.com",
+  projectId: "khlstacksocial",
+  storageBucket: "khlstacksocial.appspot.com",
+  messagingSenderId: "351180360715",
+  appId: "1:351180360715:web:9d43235653b013e16ccb0e"
+},
 };
